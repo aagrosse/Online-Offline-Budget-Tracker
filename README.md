@@ -16,10 +16,10 @@ Clone to your local machine and open in your favorite code editor.  Open a bash 
 
 ## Screen Shots
 ### Landing Screen
-![image](./public/img/workout.PNG)
+![image](./public/img/capture.PNG)
 
 ## Links
-[workout-tracker](https://fitness-tracker-ag.herokuapp.com/)
+[budget-tracker](https://budget-tracker-ag.herokuapp.com/)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
