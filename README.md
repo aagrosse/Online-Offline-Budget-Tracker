@@ -16,7 +16,7 @@ Clone to your local machine and open in your favorite code editor.  Open a bash 
 
 ## Screen Shots
 ### Landing Screen
-![image](./public/img/capture.PNG)
+![image](./public/img/Capture.PNG)
 
 ## Links
 [budget-tracker](https://budget-tracker-ag.herokuapp.com/)
